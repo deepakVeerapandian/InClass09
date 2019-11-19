@@ -14,6 +14,7 @@ public class DisplayActivity extends AppCompatActivity {
     private TextView tv_messageValue;
     private TextView tv_createdAtValue;
     private Button btn_close;
+    //private String sowmya;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
